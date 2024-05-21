@@ -1,30 +1,28 @@
-
-body{
-  background-color:#E2EFDE;
+body {
+  background-color: #e2efde;
 }
-h1{
+h1 {
   color: black;
   font-size: 80px;
   text-align: center;
   text-decoration-line: overline underline;
   text-decoration-thickness: 6px;
 }
-img{
-  <center>
-  width: 25%;
+img {
+  border-radius: 8px;
+  width: 50%;
 }
-nav{
+nav {
   list-style-type: none;
   postition: fixed;
-  background-color:#808F87;
+  background-color: #808f87;
   width: 100vw;
-  top:0;
-  left:0;
+  top: 0;
+  left: 0;
   padding: 20px;
 }
-li{
+li {
   display: inline;
   padding: 50px;
-  color:#E2EFDE;
+  color: #e2efde;
 }
-
