@@ -1,1 +1,30 @@
-
+<style>
+body{
+  background-color:white;
+}
+h1{
+  color: #362417;
+  font-size: 80px;
+  text-align: center;
+  text-decoration-line: overline underline;
+  text-decoration-thickness: 6px;
+}
+img{
+  <center>
+  width: 25%;
+}
+nav{
+  list-style-type: none;
+  postition: fixed;
+  background-color:#6184D8;
+  width: 100vw;
+  top:0;
+  left:0;
+  padding: 20px;
+}
+li{
+  display: inline;
+  padding: 50px;
+  color:#DEE7E7;
+}
+</style>
