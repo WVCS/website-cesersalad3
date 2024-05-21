@@ -1,9 +1,9 @@
 <style>
 body{
-  background-color:white;
+  background-color:#E2EFDE;
 }
 h1{
-  color: #362417;
+  color: black;
   font-size: 80px;
   text-align: center;
   text-decoration-line: overline underline;
@@ -16,7 +16,7 @@ img{
 nav{
   list-style-type: none;
   postition: fixed;
-  background-color:#6184D8;
+  background-color:#808F87;
   width: 100vw;
   top:0;
   left:0;
@@ -25,6 +25,6 @@ nav{
 li{
   display: inline;
   padding: 50px;
-  color:#DEE7E7;
+  color:#E2EFDE;
 }
 </style>
